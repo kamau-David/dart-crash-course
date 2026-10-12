@@ -1,0 +1,32 @@
+# Dart / Flutter generated files
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Dart coverage and testing
+coverage/
+test/.test_cache/
+
+# IDE settings
+.idea/
+*.iml
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Generated Dart files
+*.g.dart
+*.freezed.dart
